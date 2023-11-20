@@ -106,6 +106,6 @@ Finally, I would like to express my gratitude to the Web development course inst
 
 ## Contact
 
-If you have any questions or want to get in touch, please contact us at yourfatimariaz_gatech@outlook.com.
+If you have any questions or want to get in touch, please contact at fatimariaz_gatech@outlook.com.
 
 Experience efficient note-taking with the Keeper Web App!
